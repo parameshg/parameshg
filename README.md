@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parameshg
 - 👀 I’m interested in software architecture and system design
-- 🌱 I’m currently learning Internet-of-Things
-- 💞️ I’m looking to collaborate on new technologies
-- 📫 You can reach me on firstname.lastname at gmail.com
+- 💞️ I’m looking to collaborate on Internet-of-Things
+- 🌱 I’m currently and always learning new technologies
+- 📫 You can reach me on firstname.lastname at gmail dot com
