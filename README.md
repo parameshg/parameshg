@@ -1,6 +1,6 @@
-# Hey there! I'm [Param](https://paramg.com) 👋
+# Hey there! I'm [Param](https://www.paramg.com) 👋
 
-![paramg.com](images/banner.png "Paramesh Gunasekaran")
+![www.paramg.com](images/banner.png "Paramesh Gunasekaran")
 
 <p align="center">
     <a href="https://linkedin.com/in/parameshg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
