@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://linkedin.com/in/parameshg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/parameshg" target="_blank"><img src="https://img.shields.io/badge/-Twitter-2D2B55?style=flat-square&logo=twitter&logoColor=white"/></a>
-    <a href="https://wwww.paramg.com" target="_blank"><img src="https://img.shields.io/badge/-Web-2D2B55?style=flat-square&logo=internetexplorer&logoColor=white"/></a>
+    <a href="https://www.paramg.com" target="_blank"><img src="https://img.shields.io/badge/-Web-2D2B55?style=flat-square&logo=internetexplorer&logoColor=white"/></a>
     <a href="https://blog.paramg.com" target="_blank"><img src="https://img.shields.io/badge/-Blog-2D2B55?style=flat-square&logo=RSS&logoColor=white"/></a>
     <a href="https://cv.paramg.com" target="_blank"><img src="https://img.shields.io/badge/-CV-2D2B55?style=flat-square&logo=windowsterminal&logoColor=white"/></a>
 </p>
