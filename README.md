@@ -10,14 +10,49 @@
     <a href="https://cv.paramg.com" target="_blank"><img src="https://img.shields.io/badge/-CV-2D2B55?style=flat-square&logo=windowsterminal&logoColor=white"/></a>
 </p>
 
-I'm a solution architect, mentor, and a full-stack developer with 20 years of professional experience in software development, architecture and system design. I work for [Sympli](https://www.sympli.com.au). Currently, I specialise in mentoring, building and deploying secure enterprise applications and distributed systems such as Internet-of-Things in the public couds (AWS/Azure) using .NET, Angular, Blazor. I love the challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution. 
+# Technology Leader | Enterprise Architecture | Scalable Systems
+
+I'm an software and solutions <b>architect</b>, mentor, and a full-stack developer with <b>20+ years</b> of professional experience in software development, architecture and system design. I work for <[r2p Group](https://www.r2p.com) as the <b>Head of Technology</b>.
+
+I build and lead technology that compounds. I build systems that scale. I’m interested in solving structural problems, not just shipping features. I care less about trends and more about building systems that survive growth, regulation, and operational pressure.
+
+My work spans enterprise architecture, distributed systems, cloud infrastructure, and applied AI, with a focus on turning complex technical capability into operational advantage.
+
+My focus is long-term architectural integrity, scalable platform strategy, and translating complex engineering capability into durable business advantage.
+
+### What I do
+
+<b>🧭 Technology Strategy</b>
+<p>
+  I define technical vision aligned to business objectives, balance innovation with governance and risk, establish scalable architecture principles, drive platform-first thinking across teams.
+</p>
+<b>🏗 Enterprise Architecture</b>
+<p>
+  Designing scalable, modular backend systems, multi-tenant SaaS architecture, secure system design within governance constraints, performance and reliability engineering.
+</p>
+<b>☁️ Cloud & Infrastructure</b>
+<p>
+  AWS architecture and deployment strategies, containerisation, infrastructure-aware application design, resilient distributed services.
+</p>
+<b>🤖 Applied AI</b>
+<p>
+  Retrieval-Augmented Generation (RAG) systems, enterprise LLM orchestration, semantic search platforms, knowledge-grounded automation, AI embedded into business workflows.
+</p>
+
+### Leadership Principles
+<p>
+  Architecture is a business decision. Technical debt is financial debt. Scalability must be intentional. Security and governance are foundational. Teams build systems; culture builds teams.
+</p>
+
+### Focus Areas
+<p>
+  Platform architecture over one-off solutions. Building internal capability, not vendor dependency. Intelligent automation inside enterprise constraints. High-leverage engineering organisations. Turning engineering into strategic advantage.
+</p>
+
+### Current Interests
+
+<p>
+  Platform unification strategies. Enterprise AI governance models. Scalable product ecosystems. Engineering maturity models. Long-term technical defensibility.
+</p>
 
 📫 You can reach me on firstname dot lastname at gmail dot com.
-
-<!-- [![Param's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parameshg&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_rank=true&custom_title=Stats)](https://github.com/parameshg) -->
-
-<a href="https://github.com/parameshg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parameshg&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_rank=true&custom_title=Stats&count_private=true" alt="Param's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=parameshg&theme=transparent&layout=donut" 
-    alt="Param's GitHub Top Languages" />
-</a>
