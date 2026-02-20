@@ -12,7 +12,7 @@
 
 # Technology Leader | Enterprise Architecture | Scalable Systems
 
-I'm an software and solutions <b>architect</b>, mentor, and a full-stack developer with <b>20+ years</b> of professional experience in software development, architecture and system design. I work for <[r2p Group](https://www.r2p.com) as the <b>Head of Technology</b>.
+I'm an software and solutions <b>architect</b>, mentor, and a full-stack developer with <b>20+ years</b> of professional experience in software development, architecture and system design. I work for [r2p Group](https://www.r2p.com) as the <b>Head of Technology</b>.
 
 I build and lead technology that compounds. I build systems that scale. I’m interested in solving structural problems, not just shipping features. I care less about trends and more about building systems that survive growth, regulation, and operational pressure.
 
@@ -22,19 +22,22 @@ My focus is long-term architectural integrity, scalable platform strategy, and t
 
 ### What I do
 
-<b>🧭 Technology Strategy</b>
+#### 🧭 Technology Strategy
 <p>
   I define technical vision aligned to business objectives, balance innovation with governance and risk, establish scalable architecture principles, drive platform-first thinking across teams.
 </p>
-<b>🏗 Enterprise Architecture</b>
+
+#### 🏗 Enterprise Architecture
 <p>
   Designing scalable, modular backend systems, multi-tenant SaaS architecture, secure system design within governance constraints, performance and reliability engineering.
 </p>
-<b>☁️ Cloud & Infrastructure</b>
+
+#### ☁️ Cloud & Infrastructure
 <p>
   AWS architecture and deployment strategies, containerisation, infrastructure-aware application design, resilient distributed services.
 </p>
-<b>🤖 Applied AI</b>
+
+#### 🤖 Applied AI
 <p>
   Retrieval-Augmented Generation (RAG) systems, enterprise LLM orchestration, semantic search platforms, knowledge-grounded automation, AI embedded into business workflows.
 </p>
